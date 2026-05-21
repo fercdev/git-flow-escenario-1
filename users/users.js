@@ -1,0 +1,1 @@
+console.log("Funcionalidad del modulo de usuarios (CRUD)");
